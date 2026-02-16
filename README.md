@@ -1,2 +1,10 @@
-# -C-Program-
-This repository contains basic C++ programs for learning and practice.
+#python program
+ 
+This repository contains a simple Python program that multiplies two numbers entered by the user and displays the result.
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+result = a * b
+
+print("Multiplication =", result)
